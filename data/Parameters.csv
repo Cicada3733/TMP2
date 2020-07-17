@@ -1,0 +1,7 @@
+Parameters,Unit of Measure,Value
+Number of hump jobs,Count,2
+Number of pullout jobs,Count,3
+Time between train humping,Minutes,20
+Humping rate,Cars per Minute,2
+Pullout time per track,Minutes,20
+Start build time offset,Hours,4
